@@ -1,36 +1,42 @@
-# Making Sales Data Talk: 
-
+Making Energy Data Talk:
 Exploratory Data Analysis with Python
+In this project, I explored the Residential Energy Efficiency Projects dataset to uncover hidden patterns and insights about household upgrades and energy savings for low-income homes.
 
-In this project, I explored the **Superstore dataset** to uncover the hidden stories behind sales and profit trends.
+🔍 Focus Areas:
+Identifying top-performing project types and utilities
 
-## Focus Areas
-- Identifying top-performing **categories** and **regions**
-- Analyzing the **relationship between sales and profit**
-- Exploring **trends** over time and across **product segments**
+Analyzing the relationship between project cost and energy savings
 
-## Tools Used
-- **Python** (Jupyter Notebook)
-- **Pandas** for data manipulation
-- **Matplotlib** and **Seaborn** for visualizations
+Exploring trends across years, dwelling types, and regions
 
-## Key Accomplishments
-- Cleaned and explored the dataset thoroughly
-- Performed detailed comparisons by region and category
-- Visualized sales vs. profit to identify patterns
-- Extracted actionable insights for better decision-making
+🛠 Tools Used:
+Python (Jupyter Notebook)
 
-## Insights Discovered
-- Some product categories have **high sales** but **low quantity sold**
-- A few regions **consistently outperform** others
-- Visual storytelling brings clarity to raw numbers
+Pandas for data cleaning and analysis
 
-## Lessons Learned
-This project was about more than just coding. It deepened my skills in:
-- **Exploratory Data Analysis (EDA)**
-- **Building business narratives**
-- **Effective data visualization**
+Matplotlib and Seaborn for data visualization
 
----
+🎯 Key Accomplishments:
+Cleaned and pre-processed the dataset for better analysis
 
+Compared project costs and savings by utility, county, and dwelling type
 
+Visualized correlations between project cost and estimated energy savings
+
+Extracted insights to support future energy program decisions
+
+📈 Insights Discovered:
+Some project types deliver higher energy savings relative to cost
+
+Certain utilities and counties consistently show better project efficiency
+
+Visual storytelling helped highlight trends not obvious from raw data
+
+🧠 Lessons Learned:
+This project was about more than just coding — it sharpened my skills in:
+
+Exploratory Data Analysis (EDA)
+
+Telling a clear business story through data
+
+Designing effective, actionable visualizations
