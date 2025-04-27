@@ -1,5 +1,4 @@
 Making Energy Data Talk:
-
 Exploratory Data Analysis with Python
 In this project, I explored the Residential Energy Efficiency Projects dataset to uncover hidden patterns and insights about household upgrades and energy savings for low-income homes.
 
