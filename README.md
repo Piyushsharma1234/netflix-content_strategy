@@ -33,4 +33,4 @@ This project was about more than just coding. It deepened my skills in:
 
 ---
 
-Would you also like me to help you write a quick "README template" you can just copy-paste into your GitHub repo? It’ll look even more professional!
+
